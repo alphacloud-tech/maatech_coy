@@ -1,0 +1,124 @@
+
+
+/* FOOTER for whats */
+
+.main-btn1 {
+    /*   background: #6985c4; */
+    background:  #1d1745;
+    color: #f74883;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    position: fixed;
+    box-sizing: border-box;
+    border: 2px solid #ffffff;
+    bottom: 10px;
+    right: 10px;
+    font-family: "Open Sans",Tahoma,Geneva,sans-serif;
+    text-align: center;
+    z-index: 10;
+    transition: 0.7s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .main-btn1 .sub-btns > div .fa {
+    font-size: 20px;
+    color: #f74883;
+    text-shadow: 0 0 20px #ffffff;
+  }
+
+  .fa:hover {
+    font-size: 20px;
+    color: #f74883;
+    text-shadow: 0 0 10px #ffffff;
+  }
+  
+  .sub-btns {
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 9;
+  }
+  
+  .sub-btns > div {
+    box-sizing: border-box;
+    background: #ffffff;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    position: relative;
+    box-sizing: border-box;
+    border: 3px solid #f74883;
+    transition: 0.7s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .btn2 {
+    bottom: 60px;
+  }
+  
+  .btn3 {
+    bottom: 120px;
+  }
+  
+  .btn4 {
+    bottom: 180px;
+  }
+  
+  .touch {
+    height: 50px !important;
+    width: 50px !important;
+    font-family: "Open Sans",Tahoma,Geneva,sans-serif;
+  }
+  
+  .btn5 {
+    bottom: 240px;
+    left: 5px;
+  }
+  
+  .btn6 {
+    bottom: 290px;
+    left: 5px;
+  }
+  
+  .btn7 {
+    bottom: 340px;
+    left: 5px;
+  }
+  
+  .btn8 {
+    bottom: 390px;
+    left: 5px;
+  }
+  
+  .btn9 {
+    bottom: 440px;
+    left: 5px;
+  }
+
+  h3,h4 {
+      margin-top: 15px;
+      color: #4a3d8f;
+      font-size: 20px;
+  }
+  
+  /* start working scrollbar */
+  /* ::-webkit-scrollbar-thumb {*/
+  /*    background: #1d1745;*/
+  /*    border-radius: 20px;*/
+  /*}*/
+  /*::-webkit-scrollbar {*/
+  /*    width: 10px;*/
+  /*}*/
+  
+
+/* end working scrollbar */
+
+  
